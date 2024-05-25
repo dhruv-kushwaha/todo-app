@@ -33,6 +33,7 @@
 4. **Configure the frontend to use the local backend**
     
     Currently, the app is using the backend deployed on Render.
+    If you wish to use the same then skip this step, it will take a while for the first request because of serverless's cold start problem.
     
     To use the local backend, in `frontend/src/services/global.ts` paste this:
     
@@ -44,7 +45,7 @@
     export const URL = `http://localhost:3030/api/v1`;
     ```
     
-5. **Run the frontend**
+6. **Run the frontend**
     
     ```bash
     # in terminal 2
