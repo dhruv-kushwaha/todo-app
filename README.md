@@ -1,6 +1,6 @@
 # Todo App
 
-##Techstack used
+## Techstack used
     **Frontend** : React.js, React Query, React Router, Tailwind CSS
     **Backend** : Express.js, Typescript
     
