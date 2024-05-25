@@ -1,1 +1,1 @@
-export const URL = `${process.env.URL}/api/v1`;
+export const URL = `https://todo-app-y8dw.onrender.com/api/v1`;
