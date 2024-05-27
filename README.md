@@ -2,7 +2,7 @@
 
 ## Deployment Link
 
-The app is deployed at: [https://todo-bkzmnqwyh-dhruvs-projects-1c3fba9e.vercel.app/](https://todo-bkzmnqwyh-dhruvs-projects-1c3fba9e.vercel.app/)
+The app is deployed at: [https://todo-app-cyan-mu.vercel.app/](https://todo-app-cyan-mu.vercel.app/)
 
 ## Techstack Used
 
